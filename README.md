@@ -14,4 +14,6 @@ Objective: Divide the data into training and test sets to evaluate model perform
 
 Objective: Train a simple AI model to demonstrate the use of preprocessed data. Key Activities: Train a logistic regression model on the training data. Make predictions on the test data. Displaying the Output:
 
-Objective: Show the results of the data preprocessing and model training steps. Key Activities: Print the shape of the processed data. Display the test accuracy of the model. Show a sample of the processed data. image
+Objective: Show the results of the data preprocessing and model training steps. Key Activities: Print the shape of the processed data. Display the test accuracy of the model. Show a sample of the processed data. im
+![image](https://github.com/user-attachments/assets/2268a4ba-4c29-4971-8182-c35dbb18edd7)
+![image](https://github.com/user-attachments/assets/e84ec366-449c-4685-83e0-fbd166562225)
